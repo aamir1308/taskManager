@@ -1,0 +1,3 @@
+@echo off
+echo Starting taskManager...
+docker-compose up
